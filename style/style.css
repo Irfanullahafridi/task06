@@ -4,7 +4,7 @@
 }
 body{
    /* background-image: url("../images/back-dp-1.jpg");  */
-   background-image: url("../images/back-dp-2.jpg");
+   background-image: url("../images/black\ bg.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: top;
@@ -251,11 +251,8 @@ body{
     width: 25%;
     height: 45%;
     margin: 3px;
-    box-shadow:  8px 8px 16px rgb(82, 72, 72);
+    box-shadow:  8px 8px 16px rgb(187 23 23);;
     border-radius: 12px;
-    /* background-image: url("../images/coffee/coffee-background.jpg"); */
-    /* background-repeat: no-repeat;
-    background-size: cover; */ 
     transition: all 1s ease-in;
 }
 .coffe-section div:hover{
@@ -362,7 +359,7 @@ transition: all 1.5s ease;
 /* cold-coffee-section" */
 #cold-coffee-heading{
 
-    color: rgb(255, 255, 255);
+    color: rgb(247 96 48);
     text-decoration: underline;
     text-align: center;
     margin-top: 32px;
