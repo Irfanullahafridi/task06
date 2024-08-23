@@ -364,10 +364,13 @@ transition: all 1.5s ease;
     text-align: center;
     margin-top: 32px;
 }
+#cold1 {
+    color: black;
+}
 
 .cold-section {
 
-height: 80vh;
+height: 60vh;
 
 display: flex;
 flex-wrap: wrap;
@@ -420,9 +423,9 @@ transform: translateY(-12px);
 }
 .cold-section div img{
     
-    width: 90%;
+    width: 100%;
     height: 80%;
-    margin: 2px auto;
+    margin: 0px auto;
     border-radius: 3px;
     box-shadow: inset 3px 5px 16px rgb(125, 117, 117);
     display: block;
