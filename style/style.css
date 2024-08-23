@@ -76,7 +76,7 @@ body{
 }
 
 .section-1 p {
-    color: rgb(238, 87, 17);
+    color: rgb(156 193 232);
  margin-left: 4px;
     font-family: sans-serif;
     
@@ -88,9 +88,9 @@ body{
     margin-top: 5px
 }
 .section-1 button:hover{
-    border-color: rgba(120, 47, 47, 0.808);
+    border-color: rgba(58, 47, 120, 0.808);
     padding: 11px;
-    
+   color:#0dcaf0; 
 }
 .section-1 img{
     border-radius: 9px;
@@ -231,7 +231,7 @@ body{
 /* coffe section */
 
 #coffe-heading{
-    color: rgb(255, 255, 255);
+    color: rgb(222 238 73);
     text-decoration: underline;
    text-align: center;
    margin-top: 48px;
