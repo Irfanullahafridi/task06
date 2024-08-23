@@ -446,7 +446,7 @@ transform: translateY(-12px);
 }
 /* Beans sections */
 #beans-heading {
-    color: rgb(247 96 48);
+    color: rgb(255, 78, 24);
     text-decoration: underline;
     text-align: center;
     margin-top: 32px;
@@ -468,8 +468,6 @@ transform: translateY(-12px);
     
     width: 18%;
     height: 50%;
-    /* background-color:  #c9acac; */
-    /* background-color: hsla(0, 0%, 100%, .01); */
     background-color: rgb(127 127 127 / 21%);
     border-radius: 4px;
     box-shadow: 2px 2px 4px hsla(0, 0%, 100%, .01), -2px -2px 4px hsla(4, 0%, 100%, .01);
